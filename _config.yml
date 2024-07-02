@@ -7,8 +7,4 @@ plugins:
 
 url: https://mceelinux.github.io/docs
 
-sidebar:
-  - getting-started
-  - wine
-  - waydroid
-  - qol-tweaks
+nav_enabled: true
