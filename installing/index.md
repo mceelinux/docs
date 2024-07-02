@@ -3,6 +3,7 @@ layout: default
 title: Installing MCEE
 nav_order: 3
 has_children: true
+has_toc: false
 ---
 
 # Installing Minecraft Education
