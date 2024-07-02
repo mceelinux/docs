@@ -11,7 +11,7 @@ nav_order: 2
 **_Microsoft_** decided to change the way users log in in Minecraft Education (but they didn't for Bedrock, why?), which uses the `Microsoft.Identity.Client.*.dll` libraries, which Wine does not support.
 This issue affects the following versions:
 | Version | Status |
-|---------|--------|
+|:--------|:-------|
 | 1.18.45 | **Not affected**. Works as intended. |
 | 1.19.51/52 | **Affected**. Opens to the login page, where the login window is a blank, unclosable window. |
 | 1.19.53 | **Affected**. Window behaves the same as 1.19.51/52, but is the correct size. |
