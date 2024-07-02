@@ -7,15 +7,14 @@ nav_order: 1
 
 # Waydroid Method
 
-1. Add the Waydroid repository to your system
+1. Add the Waydroid repository to your system (**Debian** and **Ubuntu**-based distros)
    ```bash
-   sudo apt install curl ca-certificates -y
-   curl https://repo.waydro.id | sudo bash
+   grep -E 'Ubuntu|Debian|Pop|Mint|Elementary|Zorin' /etc/os-release && sudo apt update && sudo apt install curl ca-certificates -y && curl -s https://repo.waydro.id | sudo bash
    ```
    
 2. Install Waydroid
    ```bash
-   sudo apt install waydroid -y
+   sudo (dnf install waydroid || apt install waydroid -y || yay -S waydroid || paru -S waydroid)
    ```
    
 3. Install GApps build of Android
