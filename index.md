@@ -7,9 +7,13 @@ nav_order: 1
 
 # MCEELinux Documentation
 
-Welcome to the official documentation for the Minecraft Education on Linux project (MCEELinux)! Here, you will be able to find guides on running Minecraft Education (MCEE) on Linux through various methods.
+Welcome to the official documentation for the Minecraft Education on Linux project (MCEELinux)! 
 
-## Quick links
+Here, you will be able to find guides on running Minecraft Education (MCEE) on Linux through various methods.
+
+
+
+#### Quick links
 
 [Getting Started](https://mceelinux.github.io/docs/getting-started.html){: .btn .btn-blue }
 
