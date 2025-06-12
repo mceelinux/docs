@@ -10,19 +10,19 @@ url: https://mceelinux.github.io/docs
 nav_enabled: true
 color_scheme: dark
 
-callouts_level: quiet # or loud
+callouts_level: loud # or quiet
 callouts:
   highlight:
-    color: yellow-000
+    color: yellow
   important:
     title: Important
-    color: blue-000
+    color: blue
   new:
     title: New
-    color: green-000
+    color: green
   note:
     title: Note
-    color: purple-000
+    color: purple
   warning:
     title: Warning
-    color: red-000
+    color: red
