@@ -8,3 +8,4 @@ plugins:
 url: https://mceelinux.github.io/docs
 
 nav_enabled: true
+color_scheme: dark
