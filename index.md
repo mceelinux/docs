@@ -11,7 +11,7 @@ Welcome to the official documentation for the Minecraft Education on Linux proje
 
 Here, you will be able to find guides on running Minecraft Education (MCEE) on Linux through various methods.
 
-
+----
 
 #### Quick links
 

@@ -22,7 +22,8 @@ nav_order: 1
    sudo waydroid init -s GAPPS
    ```
    
-4. Google Play Services Registration
+4. **Google Play Services Registration**
+
    Open the Waydroid Shell by typing:
    ```bash
    sudo waydroid shell
@@ -46,15 +47,18 @@ nav_order: 1
    
    Then open Waydroid again.
    
-5. Log in to Google Play
+5. **Log in to Google Play**
+
    Once Waydroid has booted again, open Google Play and sign in like you would on an Android phone. Ignore the on-screen keyboard for now.
 
 
-6. Download and Install Minecraft Education
+6. **Download and Install Minecraft Education**
+
    Once you have logged in to Google Play, search for `Minecraft Education` or `com.mojang.minecraftedu`. Select the first option, and click install.
 
 
-7. Open Minecraft Education
+7. **Open Minecraft Education**
+
    Once it has installed, go to your apps launcher and find `Minecraft Education`. Then click it. It should open in the Waydroid environment, and ready to sign in.
 
 ----
