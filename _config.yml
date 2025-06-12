@@ -13,16 +13,16 @@ color_scheme: dark
 callouts_level: quiet # or loud
 callouts:
   highlight:
-    color: yellow
+    color: yellow-000
   important:
     title: Important
-    color: blue
+    color: blue-000
   new:
     title: New
-    color: green
+    color: green-000
   note:
     title: Note
-    color: purple
+    color: purple-000
   warning:
     title: Warning
-    color: red
+    color: red-000
