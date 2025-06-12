@@ -2,14 +2,14 @@
 layout: default
 title: Wine
 parent: Installing MCEE
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 
 # Wine Method
 
-## IMPORTANT
-See [here](https://mceelinux.github.io/docs/installing/wine/compatibility.html) for details on Minecraft Education version compatibility in Wine.
+{: .notice }
+> See [here](https://mceelinux.github.io/docs/installing/wine/compatibility.html) for details on Minecraft Education version compatibility in Wine.
 
 ----
 ## Downloads

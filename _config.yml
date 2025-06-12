@@ -26,3 +26,6 @@ callouts:
   warning:
     title: Warning
     color: red
+  notice:
+    title: Notice
+    color: red
