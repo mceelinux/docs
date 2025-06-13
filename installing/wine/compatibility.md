@@ -23,7 +23,7 @@ Game opens, but login still doesn't work. Login window shows, and is correct siz
 ### 1.19.53
 Game opens, login window works and is the correct size but doesn't fully load the login page.
 
-### 1.19.51/52 Microsoft.Identity.Client.*.dll`
+### 1.19.51/52
 Game opens, login no longer works due to change to Microsoft Authentication Library (MSAL), using `Microsoft.Identity.Client.*.dll` libraries.
 
 ### 1.18.45
