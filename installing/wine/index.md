@@ -11,6 +11,8 @@ has_children: true
 {: .important }
 > See [here](https://mceelinux.github.io/docs/installing/wine/compatibility.html) for details on Minecraft Education version compatibility in Wine.
 
+{:toc}
+
 ----
 ## Downloads
 - [Minecraft Education (Extracted from the installer)](https://github.com/techguy16/files-for-projects/releases/download/me/ME-1.18.45-Extracted.zip)

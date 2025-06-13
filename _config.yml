@@ -20,6 +20,8 @@ search:
   rel_url: true
   button: false
 
+back_to_top: true
+back_to_top_text: "Back to top"
 
 callouts_level: loud # or quiet
 callouts:

@@ -7,22 +7,28 @@ nav_order: 1
 
 # Waydroid Method
 
-1. Add the Waydroid repository to your system (**Debian** and **Ubuntu**-based distros)
+{:toc}
+
+1. #### Add Waydroid Repository
+
+   Add the Waydroid repository to your system (**Debian** and **Ubuntu**-based distros)
    ```bash
    grep -E 'Ubuntu|Debian|Pop|Mint|Elementary|Zorin' /etc/os-release && sudo apt update && sudo apt install curl ca-certificates -y && curl -s https://repo.waydro.id | sudo bash
    ```
    
-2. Install Waydroid
+2. #### Install Waydroid
+
    ```bash
    sudo (dnf install waydroid || apt install waydroid -y || yay -S waydroid || paru -S waydroid)
    ```
    
-3. Install GApps build of Android
+3. #### Install GApps build of Android
+
    ```bash
    sudo waydroid init -s GAPPS
    ```
    
-4. **Google Play Services Registration**
+4. #### Google Play Services Registration
 
    Open the Waydroid Shell by typing:
    ```bash
@@ -47,17 +53,17 @@ nav_order: 1
    
    Then open Waydroid again.
    
-5. **Log in to Google Play**
+5. #### Log in to Google Play
 
    Once Waydroid has booted again, open Google Play and sign in like you would on an Android phone. Ignore the on-screen keyboard for now.
 
 
-6. **Download and Install Minecraft Education**
+6. #### Download and Install Minecraft Education
 
    Once you have logged in to Google Play, search for `Minecraft Education` or `com.mojang.minecraftedu`. Select the first option, and click install.
 
 
-7. **Open Minecraft Education**
+7. #### Open Minecraft Education
 
    Once it has installed, go to your apps launcher and find `Minecraft Education`. Then click it. It should open in the Waydroid environment, and ready to sign in.
 
