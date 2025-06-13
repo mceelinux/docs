@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Compatibility and Issues
+title: Compatibility/Issues
 parent: Wine
 nav_order: 1
 ---
 
-# Compatibility and Issues
+# Compatibility/Issues
 
 ### 1.21.51 and 1.21.80.01 Previews
 Loads using Wine, but users cannot log in due to "Error 1001".
