@@ -10,6 +10,8 @@ nav_order: 1
 
 {:toc}
 
+----
+
 1. #### Add Waydroid Repository
 
    Add the Waydroid repository to your system (**Debian** and **Ubuntu**-based distros)
