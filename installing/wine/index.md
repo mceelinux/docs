@@ -7,6 +7,7 @@ has_children: true
 ---
 
 # Wine Method
+{: .no_toc }
 
 {: .important }
 > See [here](https://mceelinux.github.io/docs/installing/wine/compatibility.html) for details on Minecraft Education version compatibility in Wine.

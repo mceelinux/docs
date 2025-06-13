@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # Waydroid Method
+{: .no_toc }
 
 {:toc}
 
