@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Compatibility and Issuues
+title: Compatibility and Issues
 parent: Wine
 nav_order: 1
 ---
@@ -10,9 +10,9 @@ nav_order: 1
 ### 1.21.51 and 1.21.80.01 Previews
 Loads using Wine, but users cannot log in due to "Error 1001".
 
-<img src='https://gist.github.com/user-attachments/assets/81a64096-e8cf-4a84-8f63-81de0bb8c0ca' height=350>
-<img src='https://gist.github.com/user-attachments/assets/b29d3c92-8283-43f4-b21d-58af8814644e' height=350>
-<img src='https://gist.github.com/user-attachments/assets/c3c4e7c1-cfc7-43da-bb67-585d48bfeb19' height=350>
+<img src='https://gist.github.com/user-attachments/assets/81a64096-e8cf-4a84-8f63-81de0bb8c0ca' style="height:250px !important;">
+<img src='https://gist.github.com/user-attachments/assets/b29d3c92-8283-43f4-b21d-58af8814644e' style="height:250px !important;">
+<img src='https://gist.github.com/user-attachments/assets/c3c4e7c1-cfc7-43da-bb67-585d48bfeb19' style="height:250px !important;">
 
 ### 1.21.05, 1.21.06 and 1.21.10
 Do not launch, no game window opens. No fix known.
