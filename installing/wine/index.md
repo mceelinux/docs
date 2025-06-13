@@ -46,7 +46,7 @@ has_children: true
 
    
 4. #### Install dxvk
-   _See [Install dxvk](https://mceelinux.github.io/docs/installing/wine/installdxvk.html) for instructions
+   _See [Install dxvk](https://mceelinux.github.io/docs/installing/wine/installdxvk.html) for instructions_
    
    
 5. #### Extract Minecraft Education
