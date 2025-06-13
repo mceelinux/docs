@@ -42,18 +42,11 @@ has_children: true
 
 3. #### Open Wine Configuration
    Type `winecfg` to open Wine's configuration. If any dialogs pop up saying that something needs installing, press 'Install'.
-   Once `winecfg` has opened, select the drop down box labeled 'Windows Version: ' and select Windows 7.
+   Once `winecfg` has opened, select the drop down box labeled 'Windows Version: ' and select Windows 7 (1.18.45 and earlier) or Windows 10 (1.19.50 and above).
 
    
 4. #### Install dxvk
-   To install dxvk, run the following commands:
-   ```bash
-   wget https://github.com/doitsujin/dxvk/releases/download/v2.6.2/dxvk-2.6.2.tar.gz
-   tar -zxvf dxvk-*.tar.gz
-   mv dxvk-*/x32/* $WINEPREFIX/drive_c/?indows/syswow64
-   mv dxvk-*/x64/* $WINEPREFIX/drive_c/?indows/system32
-   rm -r dxvk-*
-   ```
+   _See [Install dxvk](https://mceelinux.github.io/docs/installing/wine/installdxvk.html) for instructions
    
    
 5. #### Extract Minecraft Education
