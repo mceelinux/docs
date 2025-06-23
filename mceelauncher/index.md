@@ -8,8 +8,4 @@ has_toc: false
 
 # MCEELauncher
 
-{: .important }
-> As of the 13th of June 2025, MCEELauncher is no longer in the works.
-> Please consider using [other methods](https://mceelinux.github.io/docs/installing/) to run Minecraft Education om Linux.
-
-WIP
+A launcher based on [`mcpelauncher`](https://minecraft-linux.github.io) designed to run Minecraft Education on Linux.
