@@ -2,6 +2,7 @@ title: MCEELinux
 description: Documentation for running Minecraft Education on Linux.
 theme: just-the-docs
 logo: "https://mceelinux.github.io/assets/logo.png"
+favicon_ico: "https://mceelinux.github.io/assets/logo.png"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-default-layout
