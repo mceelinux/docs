@@ -11,3 +11,4 @@ nav_order: 3
 
 | Version | Win32 | Appxbundle | Extracted |
 |:--------|:------|:-----------|:----------|
+| 1.18.45 |  |  |  |
