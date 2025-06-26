@@ -7,7 +7,7 @@ nav_order: 3
 
 # Downloads
 
-### Minecraft Education
+## Minecraft Education
 
 | Version | Win32 | Appxbundle | Extracted |
 |:--------|:------|:-----------|:----------|
@@ -20,7 +20,7 @@ nav_order: 3
 | 1.21.06 | [MinecraftEducation_x86_1.21.600.0.exe](https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.21.600.0.exe) |  |  |
 | 1.21.10 | [MinecraftEducation_x86_1.21.1000.0.exe](https://downloads.minecrafteduservices.com/retailbuilds/Msi/x86/MinecraftEducation_x86_1.21.1000.0.exe) |  |  |
 
-#### Minecraft Education Preview
+## Minecraft Education Preview
 
 {: .note }
 > Appxbundle versions are regularly removed from the website, so these will be coming soon.
